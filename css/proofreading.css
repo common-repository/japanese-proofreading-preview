@@ -1,0 +1,138 @@
+.proofreading-result  div.proofreading-summary {
+	background-color: #e1dbdb33;
+	font-family: "メイリオ","Hiragino Kaku Gothic Pro",Meiryo,"ヒラギノ角ゴ Pro W3","MS PGothic","MS UI Gothic",Helvetica,Arial,sans-serif;
+	border: 1px dotted #414852;
+	color: #333;
+}
+.proofreading-result p.proofreading-description{
+	padding-left: 15px;
+}
+.proofreading-result  span.proofreading-h2 {
+	color: #fff;
+	background-color: #414852;
+	font-size: 1.5em;
+	font-we
+	line-height: 1.3;
+	width: 100%;
+	padding: 10px 5px 5px 43px;
+	margin: 10px 0 10px -43px;
+	overflow-wrap: break-word;
+	font-weight: 600;
+}
+
+.proofreading-result  span.proofreading-h3 {
+	clear: both;
+	color: #111;
+	font-size: 1.4em;
+	line-height: 1.3;
+	padding: 5px 15px 0;
+	margin: 15px 0 15px;
+	overflow-wrap: break-word;
+	font-weight: 600;
+	border-bottom: 3px solid #414852;
+}
+
+.proofreading-result  table {
+	width: 100%;
+	background-color:#fff;
+}
+.proofreading-result  th,
+.proofreading-result  td {
+	border: solid 1px #ccc;
+}
+
+/*
+.proofreading-result  td:hover {
+	background: #deb3ba;
+}
+.tooltips {
+	display: block;
+	position: absolute;
+	z-index: 11000;
+	width: auto;
+	height: auto;
+	padding: 0.3em 0.5em;
+	color: #FFFFFF;
+	font-size: 1.4em;
+	background: #c72439;
+	border-radius: 0.5em;
+}
+.tooltips:after {
+	width: 100%;
+	content: "";
+	display: block;
+	position: absolute;
+	left: 0.5em;
+	top: -8px;
+	border-top:8px solid transparent;
+	border-left:8px solid #c72439;
+}
+*/
+
+.proofreading-result .color1 {
+	background-color: #ffb0b0;
+}
+
+.proofreading-result .color2 {
+	background-color: #ffb0d4;
+}
+
+.proofreading-result .color3 {
+	background-color: #ffb0f9;
+}
+
+.proofreading-result .color4 {
+	background-color: #f6b0ff;
+}
+
+.proofreading-result .color5 {
+	background-color: #dab0ff;
+}
+
+.proofreading-result .color6 {
+	background-color: #b5b0ff;
+}
+
+.proofreading-result .color7 {
+	background-color: #b0c4ff;
+}
+
+.proofreading-result .color8 {
+	background-color: #b0daff;
+}
+
+.proofreading-result .color9 {
+	background-color: #b0fcff;
+}
+
+.proofreading-result .color10 {
+	background-color: #b0ffe9;
+}
+
+.proofreading-result .color11 {
+	background-color: #b0ffda;
+}
+
+.proofreading-result .color12 {
+	background-color: #b0ffc0;
+}
+
+.proofreading-result .color13 {
+	background-color: #bbffb0;
+}
+
+.proofreading-result .color14 {
+	background-color: #daffb0;
+}
+
+.proofreading-result .color15 {
+	background-color: #f6ffb0;
+}
+
+.proofreading-result .color16 {
+	background-color: #ffe3b0;
+}
+
+.proofreading-result .color17 {
+	background-color: #ffceb0;
+}
